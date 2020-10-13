@@ -13,7 +13,7 @@
 
 ## What will happen
 
-Running this python file will search for all nearby shelly device(s) that are in AP mode (you should be in close range to the shelly device(s), and connect each of them to your home wifi - your wifi password will be required.
+Running this python file will search for all nearby shelly devices) that are in AP mode (you should be in close range to the shelly device(s), and connect each of them to your home wifi - your wifi password will be required.
 
 ## When you run the script make sure:
 * wifi is on
